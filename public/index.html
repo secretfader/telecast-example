@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang='en'>
+  <head>
+    <title>Telecast File Upload Example</title>
+  </head>
+  <body>
+    <h2>Telecast File Upload Example</h2>
+    <hr />
+    <h3>Streaming File Uploads:</h3>
+    <form action='/upload/stream' method='post' enctype='multipart/form-data'>
+      <label for='upload'>Please upload your file:</label>
+      <input type='file' name='upload' />
+      <button>Upload!</button>
+    </form>
+    <hr />
+    <h3>Buffered File Uploads:</h3>
+    <form action='/upload' method='post' enctype='multipart/form-data'>
+      <label for='upload'>Please upload your file:</label>
+      <input type='file' name='upload' />
+      <button>Upload!</button>
+    </form>
+  </body>
+</html>
