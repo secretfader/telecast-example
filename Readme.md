@@ -1,5 +1,7 @@
 # Telecast Example App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nicholaswyoung/telecast-example.svg)](https://greenkeeper.io/)
+
 A basic example of the [Telecast](http://github.com/originalmachine/telecast) file management system.
 
 ## License
