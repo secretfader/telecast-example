@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/originalmachine/telecast-example",
   "devDependencies": {
-    "chai": "1.10.0",
+    "chai": "4.1.2",
     "gulp": "3.9.1",
     "gulp-mocha": "2.2.0",
     "supertest": "0.15.0"
