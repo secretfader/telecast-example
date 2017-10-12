@@ -37,6 +37,6 @@
     "express": "^4.10.6",
     "morgan": "^1.5.0",
     "multer": "^0.1.6",
-    "telecast": "^0.3.0"
+    "telecast": "^0.4.1"
   }
 }
